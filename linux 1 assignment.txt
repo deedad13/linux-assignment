@@ -1,0 +1,24 @@
+0 directories, 0 files
+ubuntu@ip-172-31-5-155:~$ tree devops
+devops
+├── AWS
+│   ├── network.aws
+│   ├── storage.aws
+│   └── virtual-machine.aws
+├── Advanced-tol
+│   ├── container-tool
+│   │   ├── docker
+│   │   └── kubernets
+│   └── tool
+│       ├── jenkins
+│       └── mavean
+└── basic-concept
+    ├── cheatsheet.pdf
+    ├── git
+    ├── linux
+    ├── networking.pdf
+    └── shell-scripying
+
+8 directories, 10 files
+ubuntu@ip-172-31-5-155:~$ 
+
