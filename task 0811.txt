@@ -1,0 +1,40 @@
+mkdir task1
+  922  ls
+  923  cd task1
+  924  touch file1 file2 file3
+  925  nano file2 
+  926  rm file1 file2 file3
+  927  ls
+  928  clear
+  929  nano file2.sh
+  930  sudo  useradd user1
+  931  sudo useradd user2
+  932  sudo useradd user3
+  933  clear
+  934  sudo groupadd devil
+  935  sudo chmod o+w file2.sh
+  936  sudo chowm : devill
+  937  sudo chown:devil .
+  938  sudo chown :devil .
+  939  ls -ld
+  940  ls -l
+  941  ls -ld
+  942  sudo chmod g+rwx .
+  943  ls -ld
+  944  ls
+  945  sudo chown user1 file1 
+  946  rm file3 
+  947  touch john
+  948  ls
+  949  sudo chown john file2.sh
+  950  rm john
+  951  touch  file3 
+  952  ls
+  953  cat /etc/passwd
+  954  sudo useradd john
+  955  sudo chown john file2.sh
+  956  clear
+  957  history
+ubuntu@ip-172-31-5-155:~/task1$ ^C
+ubuntu@ip-172-31-5-155:~/task1$ ^C
+ubuntu@ip-172-31-5-155:~/task1$ 
